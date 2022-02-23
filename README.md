@@ -8,3 +8,11 @@ This is a collection of shortcut commands for vscode that I have found useful.
 ### batch change
 
 - shift + cmd + L
+
+### Duplicate selected lines
+
+- opt + shift + ↑or↓
+
+### Split screens
+
+- cmd + l
