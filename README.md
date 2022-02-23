@@ -1,11 +1,11 @@
-# vscode-tips
+# VSCode-tips
 This is a collection of shortcut commands for vscode that I have found useful.
 
-### line deletion
+### Line deletion
 
 - shift + cmd + K
 
-### batch change
+### Batch change
 
 - shift + cmd + L
 
