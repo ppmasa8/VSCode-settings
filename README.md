@@ -9,6 +9,10 @@ This is a collection of shortcut commands for vscode that I have found useful.
 
 - shift + cmd + L
 
+### Multiple line selection
+
+- opt + shift + drag
+
 ### Duplicate selected lines
 
 - opt + shift + ↑or↓
