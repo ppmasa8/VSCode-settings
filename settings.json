@@ -5,12 +5,12 @@
   "[dart]": {
     "editor.formatOnSave": true,
     "editor.formatOnType": true,
-    "editor.rulers": [80],
     "editor.selectionHighlight": false,
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.suggestSelection": "first",
     "editor.tabCompletion": "onlySnippets",
-    "editor.wordBasedSuggestions": false
+    "editor.wordBasedSuggestions": false,
+    "editor.defaultFormatter": "Dart-Code.dart-code"
   },
   "workbench.editorAssociations": {
     "*.ipynb": "jupyter.notebook.ipynb"
@@ -27,5 +27,8 @@
   "terminal.external.osxExec": "iTerm.app",
   "terminal.integrated.fontFamily": "'Menlo for Powerline'",
   "terminal.integrated.lineHeight": 1.3,
-  "terminal.integrated.cursorStyle": "line"
+  "terminal.integrated.cursorStyle": "line",
+  "go.toolsManagement.autoUpdate": true,
+  "ruby.intellisense": "rubyLocate",
+  "editor.rulers": [80]
 }
